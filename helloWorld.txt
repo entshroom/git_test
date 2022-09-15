@@ -2,4 +2,4 @@ Hello World!
 
 This is my first text file that I'm committing to GitHub on Sep 15, 2022. 
 
-
+This is an addition to test staging functionality
